@@ -32,3 +32,6 @@ document.querySelector("ELEMENT").addEventListener("EVENT",function(){
 
 // Problem 5
 
+
+
+//Problem 6
